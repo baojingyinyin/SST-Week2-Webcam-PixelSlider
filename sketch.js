@@ -1,6 +1,7 @@
-// Daniel Shiffman
-// https://youtu.be/rNqaw8LT2ZU
-// http://thecodingtrain.com
+//SST-Winter2021-Week2
+//Code edite by Yin Yu
+// Inspired by Daniel Shiffman's https://youtu.be/rNqaw8LT2ZU
+
 
 var video;
 
